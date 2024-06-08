@@ -1,6 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id ("com.google.devtools.ksp")
 }
 
 android {
@@ -71,4 +72,7 @@ dependencies {
 
 
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:$2.8.1")
+
+    ksp("androidx.room:room-compiler:2.5.0")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
 }
