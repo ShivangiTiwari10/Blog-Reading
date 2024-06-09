@@ -33,3 +33,7 @@ Navigate to the directory where you cloned the repository and select the blog-re
 Build and Run the App
 Connect your Android device to your computer or set up an Android emulator.
 
+### Screenshots
+![W](https://github.com/ShivangiTiwari10/Blog-Reading/assets/123884896/36238d50-20de-425e-8690-ddbd862bd851)
+![W2](https://github.com/ShivangiTiwari10/Blog-Reading/assets/123884896/97ec4a64-75a8-4c7d-b59d-a91d5265b6ca)
+
