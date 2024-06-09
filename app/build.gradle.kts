@@ -70,6 +70,7 @@ dependencies {
 
     implementation ("com.google.devtools.ksp:symbol-processing-api:1.9.21-1.0.15")
     implementation ("androidx.navigation:navigation-compose:2.7.7")
+    implementation ("androidx.room:room-runtime:$2.6.1")
     implementation ("androidx.room:room-ktx:2.6.1")
     annotationProcessor("androidx.room:room-compiler:2.6.1")
 
