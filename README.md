@@ -20,7 +20,7 @@ The app fetches data from the following API:
 Navigate to the directory where you want to clone the repository.
 Run the following command
 
-git clone "https://github.com/yourusername/blog-reading-app.git"
+git clone "url" , Navigate to project github repository  navigate to code you can get url from there.
 
 Navigate into the project directory:
 cd blog-reading-app
